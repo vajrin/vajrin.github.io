@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vajra.github.io</id>
+    <id>https://vajrin.github.io</id>
     <title>显密融通</title>
-    <updated>2021-02-24T01:17:05.030Z</updated>
+    <updated>2021-02-24T01:27:47.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://vajra.github.io"/>
-    <link rel="self" href="https://vajra.github.io/atom.xml"/>
+    <link rel="alternate" href="https://vajrin.github.io"/>
+    <link rel="self" href="https://vajrin.github.io/atom.xml"/>
     <subtitle>略略略</subtitle>
-    <logo>https://vajra.github.io/images/avatar.png</logo>
-    <icon>https://vajra.github.io/favicon.ico</icon>
+    <logo>https://vajrin.github.io/images/avatar.png</logo>
+    <icon>https://vajrin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 显密融通</rights>
     <entry>
         <title type="html"><![CDATA[显密融通]]></title>
-        <id>https://vajra.github.io/post/968_8Dr7l/</id>
-        <link href="https://vajra.github.io/post/968_8Dr7l/">
+        <id>https://vajrin.github.io/post/968_8Dr7l/</id>
+        <link href="https://vajrin.github.io/post/968_8Dr7l/">
         </link>
         <updated>2021-02-24T01:14:37.000Z</updated>
         <content type="html"><![CDATA[<p>2121.2.24</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://vajra.github.io/post/hello-gridea/</id>
-        <link href="https://vajra.github.io/post/hello-gridea/">
+        <id>https://vajrin.github.io/post/hello-gridea/</id>
+        <link href="https://vajrin.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
